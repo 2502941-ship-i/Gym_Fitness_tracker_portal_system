@@ -23,3 +23,50 @@ FitTrack is a web-based fitness management system designed to help users track t
 - **Design Tool:** Figma
 
 ---
+### 4️⃣ Run Frontend
+- Open `index.html` in browser
+
+---
+
+## 🔗 Figma Design Link
+Paste your Figma link here  
+Example:
+https://www.figma.com/make/5Sl2Huiv15qMF3EMjz4zvX/Gym-Fitness-Management-System?t=RogphH0ZurBErGZS-1
+
+---
+
+## 🎥 YouTube Demo Link
+Paste your video link here  
+
+---
+
+## 📊 Features
+
+- User Authentication (Client & Trainer)
+- BMI Calculator
+- Nutrition Tracking
+- Workout Suggestions
+- Chat System
+- Progress Tracking
+
+---
+
+## 📚 Database
+
+The project uses MySQL database with tables:
+- users
+- meals
+- bmi_records
+- messages
+- workout_history
+---
+
+## 👨‍💻 Author
+**Muhammad Hamza Khan**  
+Software Engineering Student  
+Air University, Islamabad  
+
+---
+
+## 📌 Notes
+This project is developed for academic purposes as part of Software Engineering Concepts course.

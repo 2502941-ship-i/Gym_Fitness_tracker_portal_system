@@ -36,7 +36,7 @@ https://www.figma.com/make/5Sl2Huiv15qMF3EMjz4zvX/Gym-Fitness-Management-System?
 ---
 
 ## 🎥 YouTube Demo Link
-Paste your video link here  
+https://youtu.be/PlGfSX520S0 
 
 ---
 
